@@ -2,7 +2,7 @@
 
 웨딩플래너의 캘린더 기능만 분리한 독립 Next.js 앱입니다. 기존 Firebase Data Connect를 그대로 사용하므로 같은 계정으로 로그인하면 기존 일정이 이어집니다.
 
-운영 주소: [https://calendar-yeongchan.vercel.app](https://calendar-yeongchan.vercel.app)
+운영 주소: [https://calendar-seven-blue.vercel.app](https://calendar-seven-blue.vercel.app)
 
 ## 포함된 기능
 
